@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Gasalt-Black;
+    src: url(/fonts/Gasalt-Black.ttf);
+}
+.font-gasalt{
+    font-family: Gasalt-Black;
+}
+body, html{
+    background-color: lightgray;
+    height: 100vh;
+}
